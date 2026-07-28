@@ -2,12 +2,14 @@
 
 An end-to-end supply chain analysis for Smytten — a D2C beauty & personal care platform — covering product performance, supplier evaluation, logistics efficiency, and defect tracking across 100 SKUs.
 
+![Overview Dashboard](overview.png)
+![Finance Dashboard](finance.png)
+
 ---
 
 ## Tools Used
-- **Power BI** — Interactive dashboards for supply chain KPIs
-- **Excel / CSV** — Raw data storage and preprocessing
-- **PowerPoint** — Insights presentation
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 ---
 
@@ -42,15 +44,6 @@ An end-to-end supply chain analysis for Smytten — a D2C beauty & personal care
 | Routes | Route A / B / C |
 | Costs | Total logistics cost (INR) |
 
-### `Supplier_Performance.csv`
-Comparative supplier benchmarking:
-
-| Supplier | Cost/Unit (INR) | Lead Time (Days) | Defect Rate (%) |
-|---|---|---|---|
-| Supplier A | 50 | 5 | 2 |
-| Supplier B | 45 | 7 | 1 |
-| Supplier C | 55 | 4 | 3 |
-
 ---
 
 ## Key Analysis Areas
@@ -75,13 +68,4 @@ The Power BI dashboard (`supply chain dasgboards.pbix`) covers:
 
 ---
 
-## Project Files
 
-| File | Description |
-|---|---|
-| `supply_chain_data.csv` | Main dataset — 100 SKUs with full supply chain metrics |
-| `Supplier_Performance.csv` | Supplier benchmarking data |
-| `supply chain dasgboards.pbix` | Power BI dashboard |
-| `smytten supply chain analysis.pptx` | Presentation with key findings |
-| `Screenshot 2026-04-21 163728.png` | Dashboard preview 1 |
-| `Screenshot 2026-04-21 194641.png` | Dashboard preview 2 |
