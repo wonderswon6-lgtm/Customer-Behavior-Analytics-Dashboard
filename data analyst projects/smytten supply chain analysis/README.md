@@ -2,7 +2,7 @@
 
 An end-to-end supply chain analysis for Smytten — a D2C beauty & personal care platform — covering product performance, supplier evaluation, logistics efficiency, and defect tracking across 100 SKUs.
 
-<img src="overview.png" width="500"/>
+<p align="center"><img src="overview.png" width="500"/></p>
 
 <img src="financee.png" width="500"/>
 
