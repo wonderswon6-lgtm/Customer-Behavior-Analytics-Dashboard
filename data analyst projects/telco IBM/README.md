@@ -27,11 +27,17 @@ An interactive Power BI dashboard built using the IBM Telco Customer Churn Datas
 ## 📈 Dashboard Pages
 
 ### 1. Executive Overview
-![Overview 1](overview%201.png)
-![Overview 2](overview%202.png)
+<p align="center">
+  <img src="overview%201.png" width="52%" />
+  <img src="overview%202.png" width="40%" />
+</p>
 
 ### 2. Churn Driver Analysis
-![Churn Driver Analysis](churn%20driver%20analysis%20.png)
+<p align="center">
+  <img src="churn%20driver%20analysis%20.png" width="70%" />
+</p>
 
 ### 3. Customer Profile Analysis
-![Customer Details](customer%20details.png)
+<p align="center">
+  <img src="customer%20details.png" width="70%" />
+</p>
